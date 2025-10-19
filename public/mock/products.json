@@ -1,0 +1,5 @@
+[
+  { "sku": "CHOC1234", "name": "Dark Chocolate 70%", "price": 4.5,"perishable": false },
+  { "sku": "MLK56789", "name": "Full Cream Milk 1L", "price": 2.4,"perishable": true },
+  { "sku": "BREAD111", "name": "Sourdough Bread", "price": 3.2,"perishable": true }
+]
