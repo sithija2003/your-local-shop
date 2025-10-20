@@ -5,6 +5,7 @@ import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 import Confirmation from "./pages/Confirmation";
 import NavBar from "./components/NavBar";
+import Admin from "./pages/Admin";
 
 function App() {
   return (
@@ -21,3 +22,4 @@ function App() {
   );
 }
 export default App;
+<Route path="/admin" element={<Admin />} />
