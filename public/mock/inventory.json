@@ -1,0 +1,5 @@
+[
+  { "sku": "CHOC1234", "available": 3 },
+  { "sku": "MLK56789", "available": 20 },
+  { "sku": "BREAD111", "available": 6 }
+]

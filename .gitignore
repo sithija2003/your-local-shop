@@ -1,12 +1,16 @@
-# Virtual environment
+# React frontend
+node_modules/
+build/
+dist/
+.env*
+
+# Python backend
 .venv/
 __pycache__/
 *.pyc
-
-# SQLite database
 app.db
 
-# IDE & system files
+# IDE & OS files
 .vscode/
 .idea/
 .DS_Store
