@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# SQLite database
+app.db
+
+# IDE & system files
+.vscode/
+.idea/
+.DS_Store
